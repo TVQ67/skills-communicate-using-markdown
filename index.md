@@ -6,4 +6,15 @@
 ###### This is H6 Header
 ###### Added header preview!
 
+
 ![Github logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/375px-GitHub_Invertocat_Logo.svg.png)
+
+
+``` c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    // your code goes here!
+    return 0;
+}
